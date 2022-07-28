@@ -1,0 +1,20 @@
+.PokemonDetail{
+    text-align: center;
+
+    &__content{
+        width: 280px;
+        height: 400px;
+        background: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/592ec50f-7a98-4675-a8f2-7915168c695f/d6hlvka-d0baefe3-0a91-4376-a436-c2556f9a5bc1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU5MmVjNTBmLTdhOTgtNDY3NS1hOGYyLTc5MTUxNjhjNjk1ZlwvZDZobHZrYS1kMGJhZWZlMy0wYTkxLTQzNzYtYTQzNi1jMjU1NmY5YTViYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WoCGTlCqeMkLpSURstVf2I1PhH9TveCNDtBifdWA1FA');
+        background-size: cover;
+        text-transform: uppercase;
+        padding-top:50px;
+        margin: auto;
+
+        & img{
+
+            width: 170px;
+            image-rendering:pixelated;
+            text-align: center;
+        }
+    }
+}

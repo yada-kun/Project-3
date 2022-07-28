@@ -1,0 +1,10 @@
+.Filter-content{
+    text-align: center;
+    margin: 0  auto;
+
+        & ul{
+           & li{
+               list-style-type: none;
+           } 
+        }
+}

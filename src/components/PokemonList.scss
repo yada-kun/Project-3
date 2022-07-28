@@ -1,0 +1,5 @@
+@import '../views/variables';
+
+.PokemonList{
+    @include flex(row,center,center,wrap)
+}
