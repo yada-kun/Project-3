@@ -1,3 +1,26 @@
+### Project Title: Pokemon Pokedex
+
+## Description: 
+
+This is a Data of Pokemons aka Pokedex where almost all of the pokemon data is stored. Through using an API: https://pokeapi.co/api/v2/pokemon/
+
+We were able to get the data and have this mini pokedex project
+
+## Table of Conents:
+1.) Pokemon Type Menu 
+2.) Pokemon Per Type 
+3.) Specific Pokemon 
+
+## Installation:
+
+Npm Install React - install the packages and you're good to go
+Node-Sass - Sass is used in this project but just npm install and it will install the package as well.
+
+## Instructions:
+
+ You will be routed to the menu section where you will choose the type of pokemon. After choosing the pokemon type it will display all the pokemon under that type through a card.  Once you click a specific pokemon you will be able to get a simple data of that pokemon
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
